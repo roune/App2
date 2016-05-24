@@ -625,3 +625,11 @@ fieldset[disabled] .btn-danger.active {
   overflow: hidden;
   background-color: #e5e5e5;
 }
+
+.image-upload > label {
+    cursor: pointer;
+}
+
+.image-upload > input {
+    display: none;
+}

@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title>App2</title>
+    
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="css/default.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-default no-margin">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header fixed-brand">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" id="menu-toggle">
+                <img src="images/icons/next-arrow.png" />
+            </button>
+            <a class="navbar-brand" href="#"><i class="fa fa-rocket fa-4"></i> HACKATONAPP</a>
+        </div><!-- navbar-header-->
+    </nav>
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav nav-pills nav-stacked" id="menu">
+                <li><a href="#"><span class="glyphicon glyphicon-list"></span>   Historial</a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span>   Usuarios</a></li>
+            </ul>
+        </div><!-- /#sidebar-wrapper -->
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="page-header">
+                        <div class="row">
+                            <div class="col-xs-4">Historial</div>
+                            <div class="col-xs-2 image-upload">
+                                <label for="file-input">
+                                    <img src="images/icons/send.png" /><!-- ICONO ENVIAR -->
+                                </label>
+                                <input id="file-input" type="file" />
+                            </div>
+                            <!--<div class="col-xs-2"><img src="images/icons/send.png" /></div>-->
+                            <!--<span role="separator" class="divider-h"></span>-->
+                            <form role="search">
+                                <div class="col-xs-4">
+                                    <input class="form-control input-sm" type="text" placeholder="Search" />
+                                </div>
+                                <div class="col-xs-2">
+                                    <input type="submit" class="btn btn-default1" value="Search" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-xs-2"><img src="images/icons/audio.png" /></div>
+                                    <div class="col-xs-4">Nombre fichero</div>
+                                    <div class="col-xs-2"><img src="images/icons/sent.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                    <div class="col-xs-4">Usuario</div>
+                                </div>
+                            </div>
+                        </li>
+                        <span role="separator" class="divider-li"></span>
+                        <li class="list-group-item">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-xs-2"><img src="images/icons/video.png" /></div>
+                                    <div class="col-xs-4">Nombre fichero</div>
+                                    <div class="col-xs-2"><img src="images/icons/rec.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                    <div class="col-xs-4">Usuario</div>
+                                </div>
+                            </div>
+                        </li>
+                        <span role="separator" class="divider-li"></span>
+                        <li class="list-group-item">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-xs-2"><img src="images/icons/file.png" /></div>
+                                    <div class="col-xs-4">Nombre fichero</div>
+                                    <div class="col-xs-2"><img src="images/icons/rec.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                    <div class="col-xs-4">Usuario</div>
+                                </div>
+                            </div>
+                        </li>
+                        <span role="separator" class="divider-li"></span>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-2.2.4.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

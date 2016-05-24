@@ -1,5 +1,4 @@
-﻿// Your code here!
-$("#navbar-collap-button > *:nth-child(1)").on("click", function () {
+﻿$("#navbar-collap-button > *:nth-child(1)").on("click", function () {
     var src = $(this).attr("src");
 
     if (src == "images/icons/back-arrow.png") {
@@ -7,5 +6,7 @@ $("#navbar-collap-button > *:nth-child(1)").on("click", function () {
     } else {
         $(this).attr("src", "images/icons/back-arrow.png");
     }
-
 });
+
+//$("#separator-h").
+//css = visibility: hidden;

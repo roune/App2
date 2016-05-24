@@ -45,7 +45,14 @@
                 <div class="page-header">
                     <div class="row">
                         <div class="col-xs-4">Historial</div>
-                        <div class="col-xs-2"><img src="images/icons/32px/aac.png" /><!-- ICONO ENVIAR --></div>
+                        <div class="col-xs-2 image-upload">
+                            <label for="file-input">
+                                <img src="images/icons/send.png" /><!-- ICONO ENVIAR -->
+                            </label>
+                            <input id="file-input" type="file" />
+                        </div>
+                        <!--<div class="col-xs-2"><img src="images/icons/send.png" /></div>-->
+                        <!--<span role="separator" class="divider-h"></span>-->
                         <form role="search">
                             <div class="col-xs-4">
                                 <input class="form-control input-sm" type="text" placeholder="Search" />
@@ -62,16 +69,36 @@
                     <li class="list-group-item">
                         <div class="container-fluid">
                             <div class="row">
-                                <div class="col-xs-2"><img src="images/icons/32px/aac.png" /></div>
+                                <div class="col-xs-2"><img src="images/icons/audio.png" /></div>
                                 <div class="col-xs-4">Nombre fichero</div>
-                                <div class="col-xs-2"><img src="images/icons/32px/aac.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
-                                <div class="col-xs-4">Usuario?</div>
+                                <div class="col-xs-2"><img src="images/icons/sent.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                <div class="col-xs-4">Usuario</div>
                             </div>
                         </div>
                     </li>
-                    <li class="list-group-item"></li>
-                    <li class="list-group-item"></li>
-                    <li class="list-group-item"></li>
+                    <span role="separator" class="divider-li"></span>
+                    <li class="list-group-item">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-xs-2"><img src="images/icons/video.png" /></div>
+                                <div class="col-xs-4">Nombre fichero</div>
+                                <div class="col-xs-2"><img src="images/icons/rec.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                <div class="col-xs-4">Usuario</div>
+                            </div>
+                        </div>
+                    </li>
+                    <span role="separator" class="divider-li"></span>
+                    <li class="list-group-item">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-xs-2"><img src="images/icons/file.png" /></div>
+                                <div class="col-xs-4">Nombre fichero</div>
+                                <div class="col-xs-2"><img src="images/icons/rec.png" /><!-- ICONO ENVIADO O RECIBIDO --></div>
+                                <div class="col-xs-4">Usuario</div>
+                            </div>
+                        </div>
+                    </li>
+                    <span role="separator" class="divider-li"></span>
                 </ul>
             </div>
         </div>

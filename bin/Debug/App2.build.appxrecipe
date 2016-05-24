@@ -234,14 +234,32 @@
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\_page.png">
       <PackagePath>images\icons\32px\_page.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\video.png">
+      <PackagePath>images\icons\video.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\back-arrow.png">
       <PackagePath>images\icons\back-arrow.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\down-arrow.png">
       <PackagePath>images\icons\down-arrow.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\file.png">
+      <PackagePath>images\icons\file.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.png">
       <PackagePath>images\icons\icons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\send.png">
+      <PackagePath>images\icons\send.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\rec.png">
+      <PackagePath>images\icons\rec.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\sent.png">
+      <PackagePath>images\icons\sent.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\audio.png">
+      <PackagePath>images\icons\audio.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>

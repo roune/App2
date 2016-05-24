@@ -22,13 +22,13 @@
     <AppXManifest Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T18:02:30.978</Modified>
+      <Modified>2016-05-24T19:21:48.164</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
-      <Modified>2016-05-24T17:56:35.813</Modified>
+      <Modified>2016-05-24T19:19:04.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.min.css">
       <PackagePath>css\bootstrap-theme.min.css</PackagePath>
@@ -36,7 +36,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.css">
       <PackagePath>css\bootstrap.css</PackagePath>
-      <Modified>2016-05-24T17:09:53.284</Modified>
+      <Modified>2016-05-24T18:46:43.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.min.css">
       <PackagePath>css\bootstrap.min.css</PackagePath>
@@ -314,6 +314,10 @@
       <PackagePath>images\icons\32px\_page.png</PackagePath>
       <Modified>2016-05-24T16:24:11.642</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\video.png">
+      <PackagePath>images\icons\video.png</PackagePath>
+      <Modified>2016-05-24T18:31:29.255</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\back-arrow.png">
       <PackagePath>images\icons\back-arrow.png</PackagePath>
       <Modified>2016-05-24T17:32:33.087</Modified>
@@ -322,9 +326,29 @@
       <PackagePath>images\icons\down-arrow.png</PackagePath>
       <Modified>2016-05-24T17:32:28.957</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\file.png">
+      <PackagePath>images\icons\file.png</PackagePath>
+      <Modified>2016-05-24T18:31:55.126</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.png">
       <PackagePath>images\icons\icons.png</PackagePath>
       <Modified>2016-05-24T16:24:09.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\send.png">
+      <PackagePath>images\icons\send.png</PackagePath>
+      <Modified>2016-05-24T18:11:01.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\rec.png">
+      <PackagePath>images\icons\rec.png</PackagePath>
+      <Modified>2016-05-24T18:09:08.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\sent.png">
+      <PackagePath>images\icons\sent.png</PackagePath>
+      <Modified>2016-05-24T18:06:13.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\audio.png">
+      <PackagePath>images\icons\audio.png</PackagePath>
+      <Modified>2016-05-24T18:29:56.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -378,7 +402,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2016-05-24T17:57:15.088</Modified>
+      <Modified>2016-05-24T19:21:43.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\bootstrap.js">
       <PackagePath>js\bootstrap.js</PackagePath>
@@ -394,7 +418,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2016-05-24T17:49:47.258</Modified>
+      <Modified>2016-05-24T19:17:34.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\npm.js">
       <PackagePath>js\npm.js</PackagePath>
@@ -402,7 +426,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-05-24T18:02:29.843</Modified>
+      <Modified>2016-05-24T19:21:46.908</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
