@@ -22,13 +22,309 @@
     <AppXManifest Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T15:31:24.682</Modified>
+      <Modified>2016-05-24T18:02:30.978</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\index.html">
-      <PackagePath>index.html</PackagePath>
-      <Modified>2016-05-24T15:29:07.777</Modified>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.css">
+      <PackagePath>css\bootstrap-theme.css</PackagePath>
+      <Modified>2016-05-24T17:56:35.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.min.css">
+      <PackagePath>css\bootstrap-theme.min.css</PackagePath>
+      <Modified>2016-05-24T15:59:33.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2016-05-24T17:09:53.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+      <Modified>2016-05-24T15:59:33.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-05-24T17:27:30.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.css.map">
+      <PackagePath>css\bootstrap-theme.css.map</PackagePath>
+      <Modified>2016-05-24T15:59:32.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.min.css.map">
+      <PackagePath>css\bootstrap-theme.min.css.map</PackagePath>
+      <Modified>2016-05-24T15:59:33.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.css.map">
+      <PackagePath>css\bootstrap.css.map</PackagePath>
+      <Modified>2016-05-24T15:59:33.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+      <Modified>2016-05-24T15:59:33.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\aac.png">
+      <PackagePath>images\icons\32px\aac.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ai.png">
+      <PackagePath>images\icons\32px\ai.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\aiff.png">
+      <PackagePath>images\icons\32px\aiff.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\avi.png">
+      <PackagePath>images\icons\32px\avi.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\bmp.png">
+      <PackagePath>images\icons\32px\bmp.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\c.png">
+      <PackagePath>images\icons\32px\c.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\cpp.png">
+      <PackagePath>images\icons\32px\cpp.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\css.png">
+      <PackagePath>images\icons\32px\css.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dat.png">
+      <PackagePath>images\icons\32px\dat.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dmg.png">
+      <PackagePath>images\icons\32px\dmg.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\doc.png">
+      <PackagePath>images\icons\32px\doc.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dotx.png">
+      <PackagePath>images\icons\32px\dotx.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dwg.png">
+      <PackagePath>images\icons\32px\dwg.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dxf.png">
+      <PackagePath>images\icons\32px\dxf.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\eps.png">
+      <PackagePath>images\icons\32px\eps.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\exe.png">
+      <PackagePath>images\icons\32px\exe.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\flv.png">
+      <PackagePath>images\icons\32px\flv.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\gif.png">
+      <PackagePath>images\icons\32px\gif.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\h.png">
+      <PackagePath>images\icons\32px\h.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\hpp.png">
+      <PackagePath>images\icons\32px\hpp.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\html.png">
+      <PackagePath>images\icons\32px\html.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ics.png">
+      <PackagePath>images\icons\32px\ics.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\iso.png">
+      <PackagePath>images\icons\32px\iso.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\java.png">
+      <PackagePath>images\icons\32px\java.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\jpg.png">
+      <PackagePath>images\icons\32px\jpg.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\js.png">
+      <PackagePath>images\icons\32px\js.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\key.png">
+      <PackagePath>images\icons\32px\key.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\less.png">
+      <PackagePath>images\icons\32px\less.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mid.png">
+      <PackagePath>images\icons\32px\mid.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mp3.png">
+      <PackagePath>images\icons\32px\mp3.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mp4.png">
+      <PackagePath>images\icons\32px\mp4.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mpg.png">
+      <PackagePath>images\icons\32px\mpg.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\odf.png">
+      <PackagePath>images\icons\32px\odf.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ods.png">
+      <PackagePath>images\icons\32px\ods.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\odt.png">
+      <PackagePath>images\icons\32px\odt.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\otp.png">
+      <PackagePath>images\icons\32px\otp.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ots.png">
+      <PackagePath>images\icons\32px\ots.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ott.png">
+      <PackagePath>images\icons\32px\ott.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\pdf.png">
+      <PackagePath>images\icons\32px\pdf.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\php.png">
+      <PackagePath>images\icons\32px\php.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\png.png">
+      <PackagePath>images\icons\32px\png.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ppt.png">
+      <PackagePath>images\icons\32px\ppt.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\psd.png">
+      <PackagePath>images\icons\32px\psd.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\py.png">
+      <PackagePath>images\icons\32px\py.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\qt.png">
+      <PackagePath>images\icons\32px\qt.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rar.png">
+      <PackagePath>images\icons\32px\rar.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rb.png">
+      <PackagePath>images\icons\32px\rb.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rtf.png">
+      <PackagePath>images\icons\32px\rtf.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\sass.png">
+      <PackagePath>images\icons\32px\sass.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\scss.png">
+      <PackagePath>images\icons\32px\scss.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\sql.png">
+      <PackagePath>images\icons\32px\sql.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tga.png">
+      <PackagePath>images\icons\32px\tga.png</PackagePath>
+      <Modified>2016-05-24T16:24:12.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tgz.png">
+      <PackagePath>images\icons\32px\tgz.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tiff.png">
+      <PackagePath>images\icons\32px\tiff.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\txt.png">
+      <PackagePath>images\icons\32px\txt.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\wav.png">
+      <PackagePath>images\icons\32px\wav.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xls.png">
+      <PackagePath>images\icons\32px\xls.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xlsx.png">
+      <PackagePath>images\icons\32px\xlsx.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xml.png">
+      <PackagePath>images\icons\32px\xml.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\yml.png">
+      <PackagePath>images\icons\32px\yml.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\zip.png">
+      <PackagePath>images\icons\32px\zip.png</PackagePath>
+      <Modified>2016-05-24T16:24:13.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\_blank.png">
+      <PackagePath>images\icons\32px\_blank.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\_page.png">
+      <PackagePath>images\icons\32px\_page.png</PackagePath>
+      <Modified>2016-05-24T16:24:11.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\back-arrow.png">
+      <PackagePath>images\icons\back-arrow.png</PackagePath>
+      <Modified>2016-05-24T17:32:33.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\down-arrow.png">
+      <PackagePath>images\icons\down-arrow.png</PackagePath>
+      <Modified>2016-05-24T17:32:28.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.png">
+      <PackagePath>images\icons\icons.png</PackagePath>
+      <Modified>2016-05-24T16:24:09.332</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -64,17 +360,49 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-20T17:06:24.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.ai">
+      <PackagePath>images\icons\icons.ai</PackagePath>
+      <Modified>2016-05-24T16:24:09.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.pdf">
+      <PackagePath>images\icons\icons.pdf</PackagePath>
+      <Modified>2016-05-24T16:24:09.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\LICENSE">
+      <PackagePath>images\icons\LICENSE</PackagePath>
+      <Modified>2016-05-24T16:24:09.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\README.md">
+      <PackagePath>images\icons\README.md</PackagePath>
+      <Modified>2016-05-24T16:24:09.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-05-24T17:57:15.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+      <Modified>2016-05-24T15:59:33.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+      <Modified>2016-05-24T15:59:33.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\jquery-2.2.4.js">
+      <PackagePath>js\jquery-2.2.4.js</PackagePath>
+      <Modified>2016-05-24T16:15:35.136</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2016-05-24T15:29:07.761</Modified>
+      <Modified>2016-05-24T17:49:47.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-      <Modified>2016-05-24T15:29:07.746</Modified>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\npm.js">
+      <PackagePath>js\npm.js</PackagePath>
+      <Modified>2016-05-24T15:59:33.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-05-24T15:31:22.865</Modified>
+      <Modified>2016-05-24T18:02:29.843</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -18,8 +18,230 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\index.html">
-      <PackagePath>index.html</PackagePath>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.css">
+      <PackagePath>css\bootstrap-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.min.css">
+      <PackagePath>css\bootstrap-theme.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.css.map">
+      <PackagePath>css\bootstrap-theme.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap-theme.min.css.map">
+      <PackagePath>css\bootstrap-theme.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.css.map">
+      <PackagePath>css\bootstrap.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\aac.png">
+      <PackagePath>images\icons\32px\aac.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ai.png">
+      <PackagePath>images\icons\32px\ai.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\aiff.png">
+      <PackagePath>images\icons\32px\aiff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\avi.png">
+      <PackagePath>images\icons\32px\avi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\bmp.png">
+      <PackagePath>images\icons\32px\bmp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\c.png">
+      <PackagePath>images\icons\32px\c.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\cpp.png">
+      <PackagePath>images\icons\32px\cpp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\css.png">
+      <PackagePath>images\icons\32px\css.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dat.png">
+      <PackagePath>images\icons\32px\dat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dmg.png">
+      <PackagePath>images\icons\32px\dmg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\doc.png">
+      <PackagePath>images\icons\32px\doc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dotx.png">
+      <PackagePath>images\icons\32px\dotx.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dwg.png">
+      <PackagePath>images\icons\32px\dwg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\dxf.png">
+      <PackagePath>images\icons\32px\dxf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\eps.png">
+      <PackagePath>images\icons\32px\eps.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\exe.png">
+      <PackagePath>images\icons\32px\exe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\flv.png">
+      <PackagePath>images\icons\32px\flv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\gif.png">
+      <PackagePath>images\icons\32px\gif.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\h.png">
+      <PackagePath>images\icons\32px\h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\hpp.png">
+      <PackagePath>images\icons\32px\hpp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\html.png">
+      <PackagePath>images\icons\32px\html.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ics.png">
+      <PackagePath>images\icons\32px\ics.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\iso.png">
+      <PackagePath>images\icons\32px\iso.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\java.png">
+      <PackagePath>images\icons\32px\java.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\jpg.png">
+      <PackagePath>images\icons\32px\jpg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\js.png">
+      <PackagePath>images\icons\32px\js.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\key.png">
+      <PackagePath>images\icons\32px\key.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\less.png">
+      <PackagePath>images\icons\32px\less.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mid.png">
+      <PackagePath>images\icons\32px\mid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mp3.png">
+      <PackagePath>images\icons\32px\mp3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mp4.png">
+      <PackagePath>images\icons\32px\mp4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\mpg.png">
+      <PackagePath>images\icons\32px\mpg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\odf.png">
+      <PackagePath>images\icons\32px\odf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ods.png">
+      <PackagePath>images\icons\32px\ods.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\odt.png">
+      <PackagePath>images\icons\32px\odt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\otp.png">
+      <PackagePath>images\icons\32px\otp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ots.png">
+      <PackagePath>images\icons\32px\ots.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ott.png">
+      <PackagePath>images\icons\32px\ott.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\pdf.png">
+      <PackagePath>images\icons\32px\pdf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\php.png">
+      <PackagePath>images\icons\32px\php.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\png.png">
+      <PackagePath>images\icons\32px\png.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\ppt.png">
+      <PackagePath>images\icons\32px\ppt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\psd.png">
+      <PackagePath>images\icons\32px\psd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\py.png">
+      <PackagePath>images\icons\32px\py.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\qt.png">
+      <PackagePath>images\icons\32px\qt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rar.png">
+      <PackagePath>images\icons\32px\rar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rb.png">
+      <PackagePath>images\icons\32px\rb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\rtf.png">
+      <PackagePath>images\icons\32px\rtf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\sass.png">
+      <PackagePath>images\icons\32px\sass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\scss.png">
+      <PackagePath>images\icons\32px\scss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\sql.png">
+      <PackagePath>images\icons\32px\sql.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tga.png">
+      <PackagePath>images\icons\32px\tga.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tgz.png">
+      <PackagePath>images\icons\32px\tgz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\tiff.png">
+      <PackagePath>images\icons\32px\tiff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\txt.png">
+      <PackagePath>images\icons\32px\txt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\wav.png">
+      <PackagePath>images\icons\32px\wav.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xls.png">
+      <PackagePath>images\icons\32px\xls.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xlsx.png">
+      <PackagePath>images\icons\32px\xlsx.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\xml.png">
+      <PackagePath>images\icons\32px\xml.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\yml.png">
+      <PackagePath>images\icons\32px\yml.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\zip.png">
+      <PackagePath>images\icons\32px\zip.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\_blank.png">
+      <PackagePath>images\icons\32px\_blank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\32px\_page.png">
+      <PackagePath>images\icons\32px\_page.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\back-arrow.png">
+      <PackagePath>images\icons\back-arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\down-arrow.png">
+      <PackagePath>images\icons\down-arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.png">
+      <PackagePath>images\icons\icons.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -48,11 +270,35 @@
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.ai">
+      <PackagePath>images\icons\icons.ai</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\icons.pdf">
+      <PackagePath>images\icons\icons.pdf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\LICENSE">
+      <PackagePath>images\icons\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\images\icons\README.md">
+      <PackagePath>images\icons\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\jquery-2.2.4.js">
+      <PackagePath>js\jquery-2.2.4.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
+    <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\js\npm.js">
+      <PackagePath>js\npm.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\ricar\documents\visual studio 2015\Projects\App2\App2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
